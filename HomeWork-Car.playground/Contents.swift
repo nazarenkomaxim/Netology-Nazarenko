@@ -107,3 +107,5 @@ class Dealership: DealershipProtocol {
     
     
 }
+
+print("git status")
